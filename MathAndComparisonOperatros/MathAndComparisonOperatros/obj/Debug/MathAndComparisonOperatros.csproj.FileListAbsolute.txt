@@ -1,0 +1,7 @@
+C:\Users\Mini\source\repos\MathAndComparisonOperatros\MathAndComparisonOperatros\bin\Debug\MathAndComparisonOperatros.exe.config
+C:\Users\Mini\source\repos\MathAndComparisonOperatros\MathAndComparisonOperatros\bin\Debug\MathAndComparisonOperatros.exe
+C:\Users\Mini\source\repos\MathAndComparisonOperatros\MathAndComparisonOperatros\bin\Debug\MathAndComparisonOperatros.pdb
+C:\Users\Mini\source\repos\MathAndComparisonOperatros\MathAndComparisonOperatros\obj\Debug\MathAndComparisonOperatros.csprojAssemblyReference.cache
+C:\Users\Mini\source\repos\MathAndComparisonOperatros\MathAndComparisonOperatros\obj\Debug\MathAndComparisonOperatros.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\MathAndComparisonOperatros\MathAndComparisonOperatros\obj\Debug\MathAndComparisonOperatros.exe
+C:\Users\Mini\source\repos\MathAndComparisonOperatros\MathAndComparisonOperatros\obj\Debug\MathAndComparisonOperatros.pdb

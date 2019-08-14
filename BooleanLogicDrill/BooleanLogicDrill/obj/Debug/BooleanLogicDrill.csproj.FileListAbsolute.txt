@@ -1,0 +1,6 @@
+C:\Users\Mini\source\repos\BooleanLogicDrill\BooleanLogicDrill\bin\Debug\BooleanLogicDrill.exe.config
+C:\Users\Mini\source\repos\BooleanLogicDrill\BooleanLogicDrill\bin\Debug\BooleanLogicDrill.exe
+C:\Users\Mini\source\repos\BooleanLogicDrill\BooleanLogicDrill\bin\Debug\BooleanLogicDrill.pdb
+C:\Users\Mini\source\repos\BooleanLogicDrill\BooleanLogicDrill\obj\Debug\BooleanLogicDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\BooleanLogicDrill\BooleanLogicDrill\obj\Debug\BooleanLogicDrill.exe
+C:\Users\Mini\source\repos\BooleanLogicDrill\BooleanLogicDrill\obj\Debug\BooleanLogicDrill.pdb

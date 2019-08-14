@@ -1,0 +1,7 @@
+C:\Users\Mini\source\repos\BranchingDrill\BranchingDrill\bin\Debug\BranchingDrill.exe.config
+C:\Users\Mini\source\repos\BranchingDrill\BranchingDrill\bin\Debug\BranchingDrill.exe
+C:\Users\Mini\source\repos\BranchingDrill\BranchingDrill\bin\Debug\BranchingDrill.pdb
+C:\Users\Mini\source\repos\BranchingDrill\BranchingDrill\obj\Debug\BranchingDrill.csprojAssemblyReference.cache
+C:\Users\Mini\source\repos\BranchingDrill\BranchingDrill\obj\Debug\BranchingDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\BranchingDrill\BranchingDrill\obj\Debug\BranchingDrill.exe
+C:\Users\Mini\source\repos\BranchingDrill\BranchingDrill\obj\Debug\BranchingDrill.pdb
