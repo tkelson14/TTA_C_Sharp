@@ -1,0 +1,7 @@
+C:\Users\Mini\source\repos\LoopDrill\LoopDrill\bin\Debug\LoopDrill.exe.config
+C:\Users\Mini\source\repos\LoopDrill\LoopDrill\bin\Debug\LoopDrill.exe
+C:\Users\Mini\source\repos\LoopDrill\LoopDrill\bin\Debug\LoopDrill.pdb
+C:\Users\Mini\source\repos\LoopDrill\LoopDrill\obj\Debug\LoopDrill.csprojAssemblyReference.cache
+C:\Users\Mini\source\repos\LoopDrill\LoopDrill\obj\Debug\LoopDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\LoopDrill\LoopDrill\obj\Debug\LoopDrill.exe
+C:\Users\Mini\source\repos\LoopDrill\LoopDrill\obj\Debug\LoopDrill.pdb
