@@ -1,0 +1,7 @@
+C:\Users\Mini\source\repos\ArrayListDrill\ArrayListDrill\bin\Debug\ArrayListDrill.exe.config
+C:\Users\Mini\source\repos\ArrayListDrill\ArrayListDrill\bin\Debug\ArrayListDrill.exe
+C:\Users\Mini\source\repos\ArrayListDrill\ArrayListDrill\bin\Debug\ArrayListDrill.pdb
+C:\Users\Mini\source\repos\ArrayListDrill\ArrayListDrill\obj\Debug\ArrayListDrill.csprojAssemblyReference.cache
+C:\Users\Mini\source\repos\ArrayListDrill\ArrayListDrill\obj\Debug\ArrayListDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\ArrayListDrill\ArrayListDrill\obj\Debug\ArrayListDrill.exe
+C:\Users\Mini\source\repos\ArrayListDrill\ArrayListDrill\obj\Debug\ArrayListDrill.pdb
