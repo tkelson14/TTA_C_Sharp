@@ -1,0 +1,7 @@
+C:\Users\Mini\source\repos\StringFuncDrill\StringFuncDrill\bin\Debug\StringFuncDrill.exe.config
+C:\Users\Mini\source\repos\StringFuncDrill\StringFuncDrill\bin\Debug\StringFuncDrill.exe
+C:\Users\Mini\source\repos\StringFuncDrill\StringFuncDrill\bin\Debug\StringFuncDrill.pdb
+C:\Users\Mini\source\repos\StringFuncDrill\StringFuncDrill\obj\Debug\StringFuncDrill.csprojAssemblyReference.cache
+C:\Users\Mini\source\repos\StringFuncDrill\StringFuncDrill\obj\Debug\StringFuncDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\StringFuncDrill\StringFuncDrill\obj\Debug\StringFuncDrill.exe
+C:\Users\Mini\source\repos\StringFuncDrill\StringFuncDrill\obj\Debug\StringFuncDrill.pdb
