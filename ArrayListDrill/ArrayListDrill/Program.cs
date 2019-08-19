@@ -9,7 +9,7 @@ namespace ArrayListDrill
         static void Main(string[] args)
         {
             int[] numArray = new int[] { 8, 5, 26, 2, 10, 200, 97, 500 };
-            string[] strArray = { "blue", "yellow", "green", "car", "truck", "boat", "earth", "water", "fire" };
+            string[] strArray = { "blue", "yellow", "car", "truck", "boat", "earth", "water", "fire" };
             List<string> strList = new List<string>();
             strList.Add("Todd");
             strList.Add("Susan");
@@ -26,7 +26,7 @@ namespace ArrayListDrill
             Console.WriteLine("Pick a number between 0 and 7");
 
             userNum = Convert.ToInt32(Console.ReadLine());
-            if (userNum < 7)
+            if (userNum <= 7)
             {
                 Console.WriteLine("You chose " + (numArray[userNum]));
 
@@ -39,7 +39,7 @@ namespace ArrayListDrill
             }
             Console.WriteLine("Pick a number between 0 and 7");
             userStr = Convert.ToInt32(Console.ReadLine());
-            if (userStr < 7)
+            if (userStr <= 7)
             {
                 Console.WriteLine("You chose " + (strArray[userStr]));
 
@@ -52,7 +52,7 @@ namespace ArrayListDrill
             }
             Console.WriteLine("Pick a number between 0 and 7");
             userList = Convert.ToInt32(Console.ReadLine());
-            if (userList < 7)
+            if (userList <= 7)
             {
                 Console.WriteLine("You chose " + (strList[userList]));
 
@@ -63,7 +63,7 @@ namespace ArrayListDrill
                 Console.ReadLine();
 
             }
-
+            Console.ReadLine();
             
         }
     }
