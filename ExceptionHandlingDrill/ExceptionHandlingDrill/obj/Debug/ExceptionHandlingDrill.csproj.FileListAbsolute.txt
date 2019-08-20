@@ -1,0 +1,6 @@
+C:\Users\Mini\source\repos\ExceptionHandlingDrill\ExceptionHandlingDrill\bin\Debug\ExceptionHandlingDrill.exe.config
+C:\Users\Mini\source\repos\ExceptionHandlingDrill\ExceptionHandlingDrill\bin\Debug\ExceptionHandlingDrill.exe
+C:\Users\Mini\source\repos\ExceptionHandlingDrill\ExceptionHandlingDrill\bin\Debug\ExceptionHandlingDrill.pdb
+C:\Users\Mini\source\repos\ExceptionHandlingDrill\ExceptionHandlingDrill\obj\Debug\ExceptionHandlingDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\ExceptionHandlingDrill\ExceptionHandlingDrill\obj\Debug\ExceptionHandlingDrill.exe
+C:\Users\Mini\source\repos\ExceptionHandlingDrill\ExceptionHandlingDrill\obj\Debug\ExceptionHandlingDrill.pdb
