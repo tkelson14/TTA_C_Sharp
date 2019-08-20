@@ -1,0 +1,7 @@
+C:\Users\Mini\source\repos\IterationDrill\IterationDrill\bin\Debug\IterationDrill.exe.config
+C:\Users\Mini\source\repos\IterationDrill\IterationDrill\bin\Debug\IterationDrill.exe
+C:\Users\Mini\source\repos\IterationDrill\IterationDrill\bin\Debug\IterationDrill.pdb
+C:\Users\Mini\source\repos\IterationDrill\IterationDrill\obj\Debug\IterationDrill.csprojAssemblyReference.cache
+C:\Users\Mini\source\repos\IterationDrill\IterationDrill\obj\Debug\IterationDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\IterationDrill\IterationDrill\obj\Debug\IterationDrill.exe
+C:\Users\Mini\source\repos\IterationDrill\IterationDrill\obj\Debug\IterationDrill.pdb
