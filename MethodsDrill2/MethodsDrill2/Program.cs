@@ -11,7 +11,7 @@ namespace MethodsDrill2
         static void Main(string[] args)
         {
             Numbers obtainNumber = new Numbers(); //Instantiate a class
-            obtainNumber.mathFunction(10, 20); //Passing in two integers
+            obtainNumber.mathFunction(number1:10, number2: 20); //Passing in two integers
         }
     }
 }
