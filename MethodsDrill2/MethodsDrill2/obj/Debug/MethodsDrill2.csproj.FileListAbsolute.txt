@@ -1,0 +1,7 @@
+C:\Users\Mini\source\repos\MethodsDrill2\MethodsDrill2\obj\Debug\MethodsDrill2.csprojAssemblyReference.cache
+C:\Users\Mini\source\repos\MethodsDrill2\MethodsDrill2\obj\Debug\MethodsDrill2.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\MethodsDrill2\MethodsDrill2\bin\Debug\MethodsDrill2.exe.config
+C:\Users\Mini\source\repos\MethodsDrill2\MethodsDrill2\bin\Debug\MethodsDrill2.exe
+C:\Users\Mini\source\repos\MethodsDrill2\MethodsDrill2\bin\Debug\MethodsDrill2.pdb
+C:\Users\Mini\source\repos\MethodsDrill2\MethodsDrill2\obj\Debug\MethodsDrill2.exe
+C:\Users\Mini\source\repos\MethodsDrill2\MethodsDrill2\obj\Debug\MethodsDrill2.pdb
