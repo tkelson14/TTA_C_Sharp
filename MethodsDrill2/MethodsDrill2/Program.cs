@@ -10,8 +10,8 @@ namespace MethodsDrill2
     {
         static void Main(string[] args)
         {
-            Void_Method obtainNumber = new Void_Method(); //Instantiate a class
-            obtainNumber.Pass1(10, 20); //Passing in two integers
+            Numbers obtainNumber = new Numbers(); //Instantiate a class
+            obtainNumber.mathFunction(10, 20); //Passing in two integers
         }
     }
 }
