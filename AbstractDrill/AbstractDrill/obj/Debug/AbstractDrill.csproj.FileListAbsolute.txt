@@ -1,0 +1,6 @@
+C:\Users\Mini\source\repos\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\AbstractDrill\AbstractDrill\bin\Debug\AbstractDrill.exe.config
+C:\Users\Mini\source\repos\AbstractDrill\AbstractDrill\bin\Debug\AbstractDrill.exe
+C:\Users\Mini\source\repos\AbstractDrill\AbstractDrill\bin\Debug\AbstractDrill.pdb
+C:\Users\Mini\source\repos\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.exe
+C:\Users\Mini\source\repos\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.pdb
