@@ -1,0 +1,6 @@
+C:\Users\Mini\source\repos\GenericsDrill\GenericsDrill\obj\Debug\GenericsDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\GenericsDrill\GenericsDrill\bin\Debug\GenericsDrill.exe.config
+C:\Users\Mini\source\repos\GenericsDrill\GenericsDrill\bin\Debug\GenericsDrill.exe
+C:\Users\Mini\source\repos\GenericsDrill\GenericsDrill\bin\Debug\GenericsDrill.pdb
+C:\Users\Mini\source\repos\GenericsDrill\GenericsDrill\obj\Debug\GenericsDrill.exe
+C:\Users\Mini\source\repos\GenericsDrill\GenericsDrill\obj\Debug\GenericsDrill.pdb
