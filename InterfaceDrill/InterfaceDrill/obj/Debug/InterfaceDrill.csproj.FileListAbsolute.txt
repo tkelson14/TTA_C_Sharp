@@ -1,0 +1,7 @@
+C:\Users\Mini\source\repos\InterfaceDrill\InterfaceDrill\bin\Debug\InterfaceDrill.exe.config
+C:\Users\Mini\source\repos\InterfaceDrill\InterfaceDrill\bin\Debug\InterfaceDrill.exe
+C:\Users\Mini\source\repos\InterfaceDrill\InterfaceDrill\bin\Debug\InterfaceDrill.pdb
+C:\Users\Mini\source\repos\InterfaceDrill\InterfaceDrill\obj\Debug\InterfaceDrill.csprojAssemblyReference.cache
+C:\Users\Mini\source\repos\InterfaceDrill\InterfaceDrill\obj\Debug\InterfaceDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\InterfaceDrill\InterfaceDrill\obj\Debug\InterfaceDrill.exe
+C:\Users\Mini\source\repos\InterfaceDrill\InterfaceDrill\obj\Debug\InterfaceDrill.pdb
