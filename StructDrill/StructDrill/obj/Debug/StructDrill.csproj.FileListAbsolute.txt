@@ -1,0 +1,7 @@
+C:\Users\Mini\source\repos\StructDrill\StructDrill\bin\Debug\StructDrill.exe.config
+C:\Users\Mini\source\repos\StructDrill\StructDrill\bin\Debug\StructDrill.exe
+C:\Users\Mini\source\repos\StructDrill\StructDrill\bin\Debug\StructDrill.pdb
+C:\Users\Mini\source\repos\StructDrill\StructDrill\obj\Debug\StructDrill.csprojAssemblyReference.cache
+C:\Users\Mini\source\repos\StructDrill\StructDrill\obj\Debug\StructDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\StructDrill\StructDrill\obj\Debug\StructDrill.exe
+C:\Users\Mini\source\repos\StructDrill\StructDrill\obj\Debug\StructDrill.pdb
