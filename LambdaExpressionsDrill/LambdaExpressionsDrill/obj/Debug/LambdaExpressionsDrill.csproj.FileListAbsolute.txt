@@ -1,0 +1,7 @@
+C:\Users\Mini\source\repos\LambdaExpressionsDrill\LambdaExpressionsDrill\bin\Debug\LambdaExpressionsDrill.exe.config
+C:\Users\Mini\source\repos\LambdaExpressionsDrill\LambdaExpressionsDrill\bin\Debug\LambdaExpressionsDrill.exe
+C:\Users\Mini\source\repos\LambdaExpressionsDrill\LambdaExpressionsDrill\bin\Debug\LambdaExpressionsDrill.pdb
+C:\Users\Mini\source\repos\LambdaExpressionsDrill\LambdaExpressionsDrill\obj\Debug\LambdaExpressionsDrill.csprojAssemblyReference.cache
+C:\Users\Mini\source\repos\LambdaExpressionsDrill\LambdaExpressionsDrill\obj\Debug\LambdaExpressionsDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\LambdaExpressionsDrill\LambdaExpressionsDrill\obj\Debug\LambdaExpressionsDrill.exe
+C:\Users\Mini\source\repos\LambdaExpressionsDrill\LambdaExpressionsDrill\obj\Debug\LambdaExpressionsDrill.pdb
