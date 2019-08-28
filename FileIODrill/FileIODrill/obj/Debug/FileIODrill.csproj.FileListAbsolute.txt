@@ -1,0 +1,7 @@
+C:\Users\Mini\source\repos\FileIODrill\FileIODrill\bin\Debug\FileIODrill.exe.config
+C:\Users\Mini\source\repos\FileIODrill\FileIODrill\bin\Debug\FileIODrill.exe
+C:\Users\Mini\source\repos\FileIODrill\FileIODrill\bin\Debug\FileIODrill.pdb
+C:\Users\Mini\source\repos\FileIODrill\FileIODrill\obj\Debug\FileIODrill.csprojAssemblyReference.cache
+C:\Users\Mini\source\repos\FileIODrill\FileIODrill\obj\Debug\FileIODrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\FileIODrill\FileIODrill\obj\Debug\FileIODrill.exe
+C:\Users\Mini\source\repos\FileIODrill\FileIODrill\obj\Debug\FileIODrill.pdb
