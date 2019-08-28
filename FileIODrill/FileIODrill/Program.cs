@@ -14,7 +14,7 @@ namespace FileIODrill
             Console.WriteLine("Please provide a number.");
             string num = Console.ReadLine();
             File.WriteAllText(@"C:\Users\Mini\Downloads\log.txt", num);
-            Console.WriteLine("Here is your number {0}", num);
+            Console.WriteLine("Here is your number {0}", File.ReadAllText(@"C:\Users\Mini\Downloads\log.txt"));
             Console.ReadLine();
         }
     }
