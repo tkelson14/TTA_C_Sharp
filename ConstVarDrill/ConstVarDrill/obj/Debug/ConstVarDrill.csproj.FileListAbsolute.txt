@@ -1,0 +1,7 @@
+C:\Users\Mini\source\repos\ConstVarDrill\ConstVarDrill\bin\Debug\ConstVarDrill.exe.config
+C:\Users\Mini\source\repos\ConstVarDrill\ConstVarDrill\bin\Debug\ConstVarDrill.exe
+C:\Users\Mini\source\repos\ConstVarDrill\ConstVarDrill\bin\Debug\ConstVarDrill.pdb
+C:\Users\Mini\source\repos\ConstVarDrill\ConstVarDrill\obj\Debug\ConstVarDrill.csprojAssemblyReference.cache
+C:\Users\Mini\source\repos\ConstVarDrill\ConstVarDrill\obj\Debug\ConstVarDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\ConstVarDrill\ConstVarDrill\obj\Debug\ConstVarDrill.exe
+C:\Users\Mini\source\repos\ConstVarDrill\ConstVarDrill\obj\Debug\ConstVarDrill.pdb
