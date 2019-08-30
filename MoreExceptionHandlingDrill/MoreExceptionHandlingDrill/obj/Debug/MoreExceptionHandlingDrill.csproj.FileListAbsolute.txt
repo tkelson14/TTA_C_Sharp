@@ -1,0 +1,7 @@
+C:\Users\Mini\source\repos\MoreExceptionHandlingDrill\MoreExceptionHandlingDrill\obj\Debug\MoreExceptionHandlingDrill.csprojAssemblyReference.cache
+C:\Users\Mini\source\repos\MoreExceptionHandlingDrill\MoreExceptionHandlingDrill\obj\Debug\MoreExceptionHandlingDrill.csproj.CoreCompileInputs.cache
+C:\Users\Mini\source\repos\MoreExceptionHandlingDrill\MoreExceptionHandlingDrill\bin\Debug\MoreExceptionHandlingDrill.exe.config
+C:\Users\Mini\source\repos\MoreExceptionHandlingDrill\MoreExceptionHandlingDrill\bin\Debug\MoreExceptionHandlingDrill.exe
+C:\Users\Mini\source\repos\MoreExceptionHandlingDrill\MoreExceptionHandlingDrill\bin\Debug\MoreExceptionHandlingDrill.pdb
+C:\Users\Mini\source\repos\MoreExceptionHandlingDrill\MoreExceptionHandlingDrill\obj\Debug\MoreExceptionHandlingDrill.exe
+C:\Users\Mini\source\repos\MoreExceptionHandlingDrill\MoreExceptionHandlingDrill\obj\Debug\MoreExceptionHandlingDrill.pdb
